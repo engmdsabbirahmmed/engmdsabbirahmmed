@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md. Sabbir Ahmmed</h1>
+<h1 align="center">Hi, I'm Md. Sabbir Ahmmed</h1>
 <h3 align="center">A passionate Learner from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engmdsabbirahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="engmdsabbirahmmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engmdsabbirahmmed" alt="engmdsabbirahmmed" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sabbuofficial" target="blank"><img src="https://img.shields.io/twitter/follow/sabbuofficial?logo=twitter&style=for-the-badge" alt="sabbuofficial" /></a> </p>
 
 - 🔭 I’m currently working on **OnnoRokom Projukti Limited**
 

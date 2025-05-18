@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance C#**
 
-- 📫 How to reach me **https://www.linkedin.com/mdsabbirahmmed/**
+- 📫 How to reach me **https://www.linkedin.com/in/mdsabbirahmmed/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
